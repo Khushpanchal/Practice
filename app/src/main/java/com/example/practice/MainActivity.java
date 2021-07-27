@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("This is second commit message");
         System.out.println("Local Changes");
-        System.out.println("Experimental branch");
+        System.out.println("Change 1");
     }
 }
